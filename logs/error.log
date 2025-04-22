@@ -1,0 +1,8 @@
+2025/04/22 11:17:10 [error] 64978#64978: *6 "/home/nab/Desktop/simple-nginx/html/index.html" is forbidden (13: Permission denied), client: 10.30.252.17, server: localhost, request: "GET / HTTP/1.1", host: "10.30.245.71:8080"
+2025/04/22 11:17:10 [error] 64978#64978: *6 open() "/home/nab/Desktop/simple-nginx/html/favicon.ico" failed (13: Permission denied), client: 10.30.252.17, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.30.245.71:8080", referrer: "http://10.30.245.71:8080/"
+
+2025/04/22 11:21:44 [error] 64978#64978: *8 open() "/home/nab/Desktop/simple-nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.30.252.17, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.30.245.71:8080", referrer: "http://10.30.245.71:8080/"
+2025/04/22 11:23:27 [error] 64978#64978: *10 open() "/home/nab/Desktop/simple-nginx/html/index.html" failed (13: Permission denied), client: 10.30.252.17, server: localhost, request: "GET / HTTP/1.1", host: "10.30.245.71:8080"
+2025/04/22 11:25:30 [error] 64978#64978: *12 open() "/home/nab/Desktop/simple-nginx/html/index.html" failed (13: Permission denied), client: 10.30.252.17, server: localhost, request: "GET / HTTP/1.1", host: "10.30.245.71:8080"
+2025/04/22 11:25:47 [error] 64978#64978: *12 open() "/home/nab/Desktop/simple-nginx/html/index.html" failed (13: Permission denied), client: 10.30.252.17, server: localhost, request: "GET / HTTP/1.1", host: "10.30.245.71:8080"
+2025/04/22 11:31:55 [error] 64978#64978: *14 open() "/home/nab/Desktop/simple-nginx/html/favicon.ico" failed (2: No such file or directory), client: 10.30.252.17, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "10.30.245.71:8080", referrer: "http://10.30.245.71:8080/"
